@@ -1,8 +1,6 @@
-# 👋 Hi, I’m **Ibrahim Alzein Alamari**
+# 🚀 Ibrahim Alamari
 
-<p align="center">
-  <strong>💻 Full Stack Software Engineer | Web Developer</strong>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
 
 ---
 
