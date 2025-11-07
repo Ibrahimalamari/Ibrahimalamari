@@ -1,12 +1,20 @@
-<!-- Profile Header -->
+
 <h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50;">Ibrahim Alzein Alamari</span></h1>
-<h3 align="center">💻 Software Engineer | 🤖 AI Enthusiast | 🌐 Web Developer</h3>
+<h3 align="center">💻 Full stack software engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=22c55e&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+and+Data+Science+Explorer;Open-Source+Contributor;Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
 ---
+* 🌍 I'm based in Lebanon
+* ✉️ You can contact me at [ibrahimalamari263@gmail.com](mailto:ibrahimalamari263@gmail.com)
+* ❓ Ask me a question about programming at [my linkedin](https://www.instagram.com/ibrahim-alamari)
+* 🧠 Languages I learn or master: JavaScript,php
+* ⚡
+
+
+
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -18,12 +26,7 @@
 
 
 ### 🧭 About Me
-
-💡 Passionate about crafting intelligent, scalable, and elegant digital solutions.  
-🎓 Computer Science graduate from the **Lebanese International University**.  
-🚀 Exploring the intersection of **AI**, **software engineering**, and **data science**.  
-🌱 Currently building an **AI-assisted code review tool (PHP + JS)**.  
-🧠 Always learning, experimenting, and contributing to the open-source world.  
+I’m a Full Stack Software Engineer and Computer Science graduate from the Lebanese International University, driven by a passion for building scalable, reliable, and user-centric web applications. I enjoy turning ideas into functional, elegant digital experiences — from designing responsive front-end interfaces to developing secure and efficient back-end systems.
 
 ---
 
