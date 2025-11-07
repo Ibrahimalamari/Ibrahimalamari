@@ -7,11 +7,12 @@
 </p>
 
 ---
+<p align="left">
 * 🌍 I'm based in Lebanon
 * ✉️ You can contact me at [ibrahimalamari263@gmail.com](mailto:ibrahimalamari263@gmail.com)
 * ❓ Ask me a question about programming at [my linkedin](https://www.instagram.com/ibrahim-alamari)
 * 🧠 Languages I learn or master: JavaScript,php
-* ⚡
+</p>
 
 
 
