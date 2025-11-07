@@ -1,65 +1,73 @@
-# 👨‍💻 Ibrahim Alzein Alamari  
+# 👋 Hi, I’m **Ibrahim Alzein Alamari**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E0E5&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;Web+Developer;Problem+Solver" alt="Typing SVG" />
-</a>
+### 💻 Full Stack Software Engineer | Web Developer | Tech Enthusiast
 
----
-### 🧠 Tech Stack  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,bootstrap,laravel,jquery,mysql,git,github,vscode,linux,figma" />
-</p>
+Welcome to my GitHub!  
+I’m a results-driven Full Stack Software Engineer passionate about crafting reliable and user-focused software.  
+My approach combines clean code, strong architecture, and continuous learning to create applications that make an impact.  
 
 ---
 
-### 🌐 Let’s Connect  
+## 🧩 What I Do
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ibrahim-alzein-alamari" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://github.com/IbrahimAlamari" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-  <a href="mailto:ibrahimalamari263@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-</p>
-
----
-### 💡 About Me  
-
-I’m a **Full Stack Software Engineer** and **Computer Science graduate** from the **Lebanese International University**, focused on building reliable, efficient, and scalable digital solutions.  
-I specialize in developing full-stack web applications — blending modern front-end interfaces with secure and maintainable back-end systems.  
-My work emphasizes clean code, performance optimization, and user-centered design to deliver impactful software.
+- 🧠 **Full-Stack Development:** Building responsive web interfaces and secure, high-performing back-end systems.  
+- 🧰 **Software Engineering:** Writing maintainable, scalable, and testable code that grows with user needs.  
+- 🌍 **Web Solutions:** Developing systems that bridge technology with usability and business goals.  
+- 📈 **Continuous Growth:** Staying ahead with modern tools, frameworks, and industry best practices.  
 
 ---
 
-### 🧰 Technical Skills  
-
-**Languages:** C, C++, Java, Python, JavaScript, PHP  
-**Web Technologies:** HTML, CSS, Bootstrap, Laravel, jQuery, MySQL  
-**Tools & Platforms:** Git, GitHub, VS Code, Linux, Figma  
-**Core Interests:** Software Development, Web Engineering, Data-Driven Applications  
-
----
-
-### 💼 Professional Highlights  
-
-- Designed and developed full-stack web applications integrating dynamic UIs with robust server-side logic.  
-- Built and optimized PHP-based systems with secure authentication and modular architecture.  
-- Collaborated on academic and open-source projects emphasizing maintainable code and team workflow.  
-- Continuously refining technical expertise through research, experimentation, and code reviews.  
-
----
-
-### ⚙️ GitHub Stats  
+## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimAlamari&show_icons=true&theme=tokyonight&hide_border=true" alt="Ibrahim's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IbrahimAlamari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,laravel,bootstrap,jquery,mysql,git,github,linux,vscode,figma" />
 </p>
 
 ---
 
+## 🧠 Background
 
+🎓 **Computer Science Graduate** – Lebanese International University  
+💼 Experienced in developing full-stack web applications with real-world impact.  
+📊 Interested in software development, data-driven design, and modern web technologies.  
+🌱 Currently refining advanced back-end design and database optimization skills.  
 
-### ☕ Fun Fact  
+---
 
-> When I’m not coding, I enjoy exploring new development tools, optimizing existing projects, and experimenting with creative ideas that bring technology and usability together.  
+## 🚀 Selected Projects
+
+### 🍴 Multi-Restaurant Food Ordering System
+> A dynamic PHP-based system enabling users to order from multiple restaurants, featuring a chatbot-based virtual waiter.  
+
+### 🗺️ Online Tourist Guide Platform
+> An interactive web application showcasing destinations and attractions with responsive UI and efficient search.  
+
+### 🌡️ Smart Fan Automation
+> Arduino-powered temperature and proximity-controlled fan with Bluetooth connectivity.  
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:ibrahimalamari263@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ibrahim-alzein-alamari" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://github.com/IbrahimAlamari" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+</p>
+
+---
+
+## ⚙️ GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimAlamari&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAlamari&theme=default&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🎯 Personal Philosophy
+
+> “Great software isn’t just built — it’s **crafted** through patience, precision, and purpose.”  
+
+---
