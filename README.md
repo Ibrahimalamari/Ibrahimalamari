@@ -16,6 +16,15 @@ My approach combines clean code, strong architecture, and continuous learning to
 - 📈 **Continuous Growth:** Staying ahead with modern tools, frameworks, and industry best practices.  
 
 ---
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:ibrahimalamari263@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ibrahim-alzein-alamari" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://github.com/IbrahimAlamari" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+</p>
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -47,15 +56,7 @@ My approach combines clean code, strong architecture, and continuous learning to
 
 ---
 
-## 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:ibrahimalamari263@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-  <a href="https://www.linkedin.com/in/ibrahim-alzein-alamari" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://github.com/IbrahimAlamari" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-</p>
-
----
 
 ## ⚙️ GitHub Overview
 
