@@ -1,6 +1,10 @@
 # 👋 Hi, I’m **Ibrahim Alzein Alamari**
 
-<p align='center'>💻 **Full Stack Software Engineer | Web Developer** </p>
+<p align="center">
+  <strong>💻 Full Stack Software Engineer | Web Developer</strong>
+</p>
+
+---
 
 Welcome to my GitHub!  
 I’m a results-driven Full Stack Software Engineer passionate about crafting reliable and user-focused software.  
@@ -16,6 +20,7 @@ My approach combines clean code, strong architecture, and continuous learning to
 - 📈 **Continuous Growth:** Staying ahead with modern tools, frameworks, and industry best practices.  
 
 ---
+
 ## 📫 Connect With Me
 
 <p align="left">
@@ -40,23 +45,20 @@ My approach combines clean code, strong architecture, and continuous learning to
 💼 Experienced in developing full-stack web applications with real-world impact.  
 📊 Interested in software development, data-driven design, and modern web technologies.  
 
-
 ---
 
 ## 🚀 Selected Projects
 
-### 🍴 Multi-Restaurant Food Ordering System
+### 🍴 Multi-Restaurant Food Ordering System  
 > A dynamic PHP-based system enabling users to order from multiple restaurants, featuring a chatbot-based virtual waiter.  
 
-### 🗺️ Online Tourist Guide Platform
+### 🗺️ Online Tourist Guide Platform  
 > An interactive web application showcasing destinations and attractions with responsive UI and efficient search.  
 
-### 🌡️ Smart Fan Automation
+### 🌡️ Smart Fan Automation  
 > Arduino-powered temperature and proximity-controlled fan with Bluetooth connectivity.  
 
 ---
-
-
 
 ## ⚙️ GitHub Overview
 
