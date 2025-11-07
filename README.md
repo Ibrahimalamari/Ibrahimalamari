@@ -39,7 +39,7 @@ My approach combines clean code, strong architecture, and continuous learning to
 🎓 **Computer Science Graduate** – Lebanese International University  
 💼 Experienced in developing full-stack web applications with real-world impact.  
 📊 Interested in software development, data-driven design, and modern web technologies.  
-🌱 Currently refining advanced back-end design and database optimization skills.  
+
 
 ---
 
