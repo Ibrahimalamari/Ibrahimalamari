@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Ibrahim Alzein Alamari**
 
-### 💻 Full Stack Software Engineer | Web Developer | Tech Enthusiast
+### 💻 Full Stack Software Engineer | Web Developer 
 
 Welcome to my GitHub!  
 I’m a results-driven Full Stack Software Engineer passionate about crafting reliable and user-focused software.  
