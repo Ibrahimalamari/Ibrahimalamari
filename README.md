@@ -1,75 +1,102 @@
-# 👋 Hi, I'm Ibrahim Alzein Alamari
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50;">Ibrahim Alzein Alamari</span></h1>
+<h3 align="center">💻 Software Engineer | 🤖 AI Enthusiast | 🌐 Web Developer</h3>
 
-🎓 **Computer Science Graduate** from the **Lebanese International University**  
-💻 **Software Developer | AI Enthusiast | Web & Data Professional**  
-🌍 Passionate about building intelligent systems, scalable web solutions, and meaningful user experiences.
-
----
-
-### 🧠 About Me
-
-- 💡 I enjoy designing and developing full-stack web applications, experimenting with AI and data-driven solutions, and contributing to open-source projects.  
-- 🚀 My focus areas include **Software Engineering**, **Artificial Intelligence**, and **Web Technologies**.  
-- 🎯 Currently improving my skills in **data analysis** and **AI model integration for web applications**.  
-- 🌱 I’m exploring **PHP APIs**, **JavaScript frameworks**, and **AI-assisted code tools**.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=22c55e&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+and+Data+Science+Explorer;Open-Source+Contributor;Always+Learning+Something+New!" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🧩 Technical Skills
+### 🧭 About Me
 
-| Category | Technologies |
-|-----------|---------------|
-| **Languages** | C, C++, Java, Python, JavaScript, PHP |
-| **Web Development** | HTML5, CSS3, SCSS, Bootstrap, jQuery, Laravel |
-| **Databases** | MySQL, SQLite |
-| **AI & Data** | Python (NumPy, Pandas, TensorFlow basics), Machine Learning, Naïve Bayes, CNN |
-| **Networking** | CCNA, Network Security (SSH, ACLs, AAA) |
-| **Tools & Platforms** | Git, GitHub, XAMPP, VS Code, Cisco Packet Tracer |
+💡 Passionate about crafting intelligent, scalable, and elegant digital solutions.  
+🎓 Computer Science graduate from the **Lebanese International University**.  
+🚀 Exploring the intersection of **AI**, **software engineering**, and **data science**.  
+🌱 Currently building an **AI-assisted code review tool (PHP + JS)**.  
+🧠 Always learning, experimenting, and contributing to the open-source world.  
 
 ---
 
-### 🧰 Featured Projects
+### ⚙️ Tech Stack
 
-#### 🥗 Multi-Restaurant Food Ordering System  
-Built with **HTML, CSS, JS, and PHP**, featuring an **AI chatbot waiter** that assists users with ordering.  
+#### 💻 Languages  
+`C` · `C++` · `Java` · `Python` · `JavaScript` · `PHP`
+
+#### 🌐 Web Technologies  
+`HTML5` · `CSS3` · `SCSS` · `Bootstrap` · `Laravel` · `jQuery`
+
+#### 🧠 AI & Data Science  
+`Machine Learning` · `CNNs` · `Naïve Bayes` · `Python (NumPy, Pandas)` · `Data Analysis`
+
+#### 🧰 Tools & Platforms  
+`Git` · `GitHub` · `VS Code` · `XAMPP` · `Cisco Packet Tracer` · `Linux`
+
+#### 🌐 Networking  
+`CCNA` · `Network Security` · `SSH` · `AAA Authentication` · `ACLs`
+
+---
+
+### 🚀 Featured Projects
+
+🧩 **AI-Assisted Virtual Assistant**  
+AI-powered web assistant for smarter online service interactions.  
+🔗 *Undergraduate Thesis Project*  
+
+🥗 **Multi-Restaurant Food Ordering System**  
+Full-stack PHP system with an **AI chatbot waiter** that assists customers interactively.  
 🔗 [View Repository](#)
 
-#### 🧭 Online Tourist Guide  
-A web app that helps travelers explore destinations, with filters and interactive UI.  
+🧭 **Online Tourist Guide**  
+An elegant website for exploring travel destinations and attractions.  
 🔗 [View Repository](#)
 
-#### 🤖 AI-Assisted Virtual Assistant  
-Undergraduate thesis project exploring how **AI virtual assistants** can improve online service delivery.  
-🔗 [View Repository](#)
-
-#### 🌡️ Automated Smart Fan (Arduino)  
-Three operation modes — **motion detection**, **temperature-based control**, and **Bluetooth remote access**.  
+🌡️ **Arduino Smart Fan**  
+Automatically adjusts speed based on motion, temperature, or Bluetooth control.  
 🔗 [View Repository](#)
 
 ---
 
-### 🌟 Highlights
+### 🧠 Research Highlight
 
-- 🧩 Research on **AI-based Network Traffic Anomaly Detection** (Naïve Bayes, CNN, Hybrid Models) using **CICIDS2017** dataset.  
-- 🥇 Achieved **3.96/4.00 GPA** and ranked **top 1%** in high school STEM exams.  
-- 🤝 Contributed to open-source repositories through **bug reports and minor feature improvements**.  
-- 🔍 Aspiring to pursue **a Master’s degree in AI and Data Science in Japan (JISR Scholarship Applicant)**.
+📊 **AI-Based Network Traffic Anomaly Detection**  
+Implemented and compared **Naïve Bayes**, **CNN**, and **Hybrid AI Models** on the **CICIDS2017** dataset to enhance cybersecurity anomaly detection accuracy.
 
 ---
 
-### 📫 Connect With Me
+### 🌟 Achievements
 
-- 💼 [LinkedIn](#)  
-- 🌐 [Portfolio Website](#)  
-- 📧 **ibrahim.alzein.alamari@example.com**  
-- 🧑‍💻 [GitHub](https://github.com/IbrahimAlamari)
-
----
-
-### 💬 Quote
-
-> “Code is not just instructions for a computer — it’s communication with the future.”
+🏆 3.96 / 4.00 GPA — Top 1% in high school STEM exams  
+💬 Active in open-source collaboration (Laravel, PHP, JS, data science repos)  
+🧩 Developed multiple AI-integrated systems during academic and personal projects  
+🎯 Applying for the **JISR Scholarship** to pursue a **Master’s in AI & Data Science (Japan)**  
 
 ---
 
-⭐ **Feel free to explore my repositories or reach out for collaborations on AI and web development projects!**
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimAlamari&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlamari&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/IbrahimAlamari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ibrahim.alzein.alamari@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+---
+
+### 💬 Quote to Code By
+
+> “Simplicity is the soul of efficiency.” — Austin Freeman
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IbrahimAlamari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
