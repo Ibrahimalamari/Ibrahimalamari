@@ -1,132 +1,85 @@
-# 🚀 Ibrahim Alzein Alamari
+# 🚀 Ibrahim Alzein Alamari  
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&center=true&vCenter=true&width=435&lines=%F0%9F%92%A1+Build.;%E2%9C%A8+Create.;%F0%9F%94%A5+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E0E5&center=true&vCenter=true&width=435&lines=%F0%9F%94%A7+Building+smart+software.;%F0%9F%92%BB+Solving+real-world+problems.;%E2%9C%A8+Always+learning+something+new." alt="Typing SVG" />
 </a>
 
-**`Full Stack Software Engineer | Web Developer | Open-Source Contributor`**
+**`Full Stack Software Engineer | Problem Solver | Open Source Contributor`**
 
-* 🌍 Based in **Lebanon 🇱🇧**  
-* ✉️ Reach me at [ibrahim.alzein.alamari@example.com](mailto:ibrahim.alzein.alamari@example.com)  
-* 💻 Skilled in full-stack web development using **PHP**, **JavaScript**, and modern frameworks  
-* 🔧 Currently working on a **Code Review Tool (PHP + JS)**  
-* 🧠 Interested in **software architecture**, **data-driven systems**, and **clean code principles**  
-* ⚡ Loves problem-solving, learning, and contributing to the developer community  
+🌍 Based in **Lebanon 🇱🇧**  
+💡 Passionate about crafting scalable, efficient, and elegant software solutions  
+📬 Reach me at [ibrahim.alamari.dev@gmail.com](mailto:ibrahim.alamari.dev@gmail.com)  
+💼 Check out my projects on [GitHub](https://github.com/IbrahimAlamari)  
+📚 Currently working on a **Code Review Tool (PHP + JS)**  
 
 ---
 
-### 🔗 Connect With Me
+### 🧠 Tech Stack & Tools  
 
 <p align="left">
-    <a href="https://github.com/IbrahimAlamari" target="_blank" rel="noreferrer">
-        <picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture>
-    </a>
-    <a href="https://www.linkedin.com/in/ibrahim-alzein-alamari" target="_blank" rel="noreferrer">
-        <picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture>
-    </a>
-    <a href="mailto:ibrahim.alzein.alamari@example.com" target="_blank" rel="noreferrer">
-        <picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" /></picture>
-    </a>
-</p>
-
-<p>
-  <a href="https://github.com/IbrahimAlamari?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/IbrahimAlamari?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/IbrahimAlamari?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IbrahimAlamari?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cpp,bootstrap,laravel,jquery,mysql,git,github,vscode,figma,linux" />
 </p>
 
 ---
 
-### ✨ About Me
+### ✨ About Me  
 
-I’m a **Full Stack Software Engineer** and **Computer Science graduate** from the **Lebanese International University**, passionate about building functional, elegant, and scalable web applications.  
-My development philosophy centers on clean architecture, reusable components, and intuitive user interfaces. I’ve worked on projects ranging from smart IoT systems to full-stack web applications with integrated chatbots and APIs.  
-I’m constantly learning, experimenting, and contributing to open-source projects to refine my craft and stay at the forefront of technology.
+I’m a **Full Stack Software Engineer** and **Computer Science graduate** from the **Lebanese International University**, passionate about designing and developing powerful, user-focused digital systems.  
+I love transforming ideas into clean, maintainable code and creating seamless end-to-end experiences — from intuitive front-end design to robust back-end logic.  
 
----
+Some of my key projects include:  
+- 💬 **Code Review API** – PHP-based tool that analyzes and scores code quality  
+- 🍴 **Multi-Restaurant Food Ordering System** – Dynamic PHP platform with chatbot waiter integration  
+- 🗺️ **Online Tourist Guide Website** – Smart and responsive travel assistant web app  
+- 🌡️ **Arduino Smart Fan** – IoT-based automatic fan control using sensors and Bluetooth  
+- 🔍 **Network Traffic Analysis** – Research on hybrid models for anomaly detection  
 
-### 🧠 Core Skills
-
-| **Category** | **Technologies** |
-|---------------|------------------|
-| 💻 **Languages** | C, C++, Java, Python, PHP, JavaScript |
-| 🌐 **Web Development** | HTML5, CSS3, SCSS, Bootstrap, Laravel, jQuery |
-| 🗃️ **Databases** | MySQL, SQLite |
-| ⚙️ **Tools & Platforms** | Git, GitHub, XAMPP, VS Code, Cisco Packet Tracer |
-| 🔐 **Networking** | CCNA, Network Security, SSH, ACLs, AAA |
-| 📊 **Other** | REST APIs, MVC Architecture, Data Handling, UX Optimization |
+I believe great software is more than just functionality — it’s about clarity, precision, and impact.  
 
 ---
 
-### 🚀 Featured Projects
+### ⚙️ GitHub Highlights  
 
-**🍽️ Multi-Restaurant Food Ordering System**  
-> Full-stack system built with PHP and JavaScript featuring a chatbot waiter for smart order interactions.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimAlamari&show_icons=true&theme=tokyonight&hide_border=true" alt="Ibrahim's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IbrahimAlamari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧩 Featured Projects  
+
+**💬 Code Review API**  
+> Lightweight PHP + JS API that reviews and analyzes code snippets.  
 🔗 [View Repository](#)
 
-**🧭 Online Tourist Guide**  
-> A responsive travel guide platform showcasing destinations and attractions with smart search filters.  
+**🍴 Multi-Restaurant Food Ordering System**  
+> Full-stack project with chatbot-based smart ordering and real-time menu updates.  
 🔗 [View Repository](#)
 
-**🌡️ Arduino Smart Fan**  
-> A hardware-based automation project with motion, temperature, and Bluetooth control modes.  
-🔗 [View Repository](#)
-
-**💬 Code Review API** *(In Progress)*  
-> A lightweight API that reviews code snippets, helping developers identify improvements.  
+**🗺️ Online Tourist Guide Website**  
+> A responsive and intuitive travel guide showcasing destinations and attractions.  
 🔗 [View Repository](#)
 
 ---
 
-### 🏆 Highlights
+### 💬 Let’s Connect  
 
-- 🎓 **B.Sc. in Computer Science** – Lebanese International University  
-- 🧩 Conducted **research on intelligent network traffic analysis** using hybrid AI models  
-- 💼 Developed multiple full-stack academic and personal projects with real-world use cases  
-- 🥇 **3.96 GPA**, top 1% in regional STEM exams  
-- 🤝 Actively contributes to open-source PHP and JavaScript projects  
-
----
-
-<details>
-    <summary><b>🛠️ Languages and Tools</b></summary>
-    <br />
-    <p align="left">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vscode-colored.svg" width="36" height="36" alt="VS Code" />
-    </p>
-</details>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ibrahim-alzein-alamari" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://github.com/IbrahimAlamari" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+  <a href="mailto:ibrahim.alamari.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+</p>
 
 ---
 
-<details>
-    <summary><b>📈 My GitHub Stats</b></summary>
-    <br />
-    <a href="http://www.github.com/IbrahimAlamari">
-      <img src="https://github-readme-stats.vercel.app/api?username=IbrahimAlamari&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" alt="Ibrahim's GitHub stats" />
-    </a>
-    <br />
-    <a href="http://www.github.com/IbrahimAlamari">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAlamari&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Ibrahim's GitHub streak stats" />
-    </a>
-</details>
+### ☕ Fun Fact  
+
+> When I’m not coding, I’m probably optimizing code performance, exploring new frameworks, or tinkering with hardware automation projects.  
 
 ---
 
 <p align="center">
-  <i>“Clean code is not written by following rules, but by creating clarity.”</i>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IbrahimAlamari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=IbrahimAlamari&label=Profile%20Views&color=00E0E5&style=flat-square" alt="Profile Views" />
 </p>
