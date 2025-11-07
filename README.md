@@ -5,7 +5,23 @@
 </a>
 
 ---
+### 🧠 Tech Stack  
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,bootstrap,laravel,jquery,mysql,git,github,vscode,linux,figma" />
+</p>
+
+---
+
+### 🌐 Let’s Connect  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ibrahim-alzein-alamari" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://github.com/IbrahimAlamari" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+  <a href="mailto:ibrahimalamari263@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+</p>
+
+---
 ### 💡 About Me  
 
 I’m a **Full Stack Software Engineer** and **Computer Science graduate** from the **Lebanese International University**, focused on building reliable, efficient, and scalable digital solutions.  
@@ -42,23 +58,7 @@ My work emphasizes clean code, performance optimization, and user-centered desig
 
 ---
 
-### 🧠 Tech Stack  
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,bootstrap,laravel,jquery,mysql,git,github,vscode,linux,figma" />
-</p>
-
----
-
-### 🌐 Let’s Connect  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ibrahim-alzein-alamari" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://github.com/IbrahimAlamari" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-  <a href="mailto:ibrahimalamari263@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-</p>
-
----
 
 ### ☕ Fun Fact  
 
